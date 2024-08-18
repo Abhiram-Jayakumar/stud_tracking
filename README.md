@@ -1,0 +1,1 @@
+It's built using Django. It's a student performance tracking system where students can view their exam results, disciplinary records, and request leave. Additionally, parents can view the student's performance and attendance, and they can also pay the tuition fees through the system.
